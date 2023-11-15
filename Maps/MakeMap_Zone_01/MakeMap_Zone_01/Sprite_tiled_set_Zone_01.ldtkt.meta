@@ -1,0 +1,3598 @@
+fileFormatVersion: 2
+guid: b4d2e34fd11bec048b33e1e404c705a4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Sprite_tiled_set_Zone_01_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: ae8872f1a139ca548b73381025a66d41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: adc36990e1a634545b53bd03702925c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: b2c094f631a1d194cbcd012905ac9841
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 768add5ca0178884088200076f5c5bad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 8a0128eec82b27f42a9672b61d3027fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f8e011e5812d62d4690716ea4d9fad63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 4bfd0ca04df6ee0428aa31e9deed6b85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d45690d693d0a3e43b954a7a0dafbd45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 240
+      width: 16
+      height: 16
+    spriteID: ec10adb9bf5aa964da4b00108fae5444
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 240
+      width: 16
+      height: 16
+    spriteID: ed2c718882f674e49bb9b1086bd061ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 29062918066b90b4db3437300ae66d0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 813f4d94931336c41b860571d585b4f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 0c682da02c923ac4098b659400ab65c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 588e29676b74f6c41891d24d5cdd3a9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d06100454056f64429b6554bff140c31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 4a6c5dac24e4ac143aadbb31e6396ac5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: acade90bba4285f4e8c02f9693f5a36b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 3d30183b2784802478bd9fe79af81020
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 1eb82a073f9f998479cf17f533100f25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2ac2a8e8e38702c4486fde0ec7f5dac6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: be4f818d6fd848141bfcbfa2e2061abf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 62904cab004c55e4695c3f23dc0696c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: ede0afcd5dcbedd4f8031054b5c87c32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: d60bc87e692f62d4a854b222fbf7fa82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 07cead134178de144872805bd734583c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2bc3804c79f72f244baea70c3fc44ef4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 856eaf2cfff2a64498ede4e1d58d58c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2a9bd366e0a702041bbbc50235ad3776
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 16
+      height: 16
+    spriteID: fa88a597c8905d741a01da8033a88fbd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 224
+      width: 16
+      height: 16
+    spriteID: af85de5bede7d5442867f38dfeecdb21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 16
+      height: 16
+    spriteID: cf742b8107eb4864b82bc9ac322f3c20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 224
+      width: 16
+      height: 16
+    spriteID: acb5403c921d4064aa3df6c9c9abc0d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f24237ade0f0e2942ac695a0521a4324
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: cc10b502dcfa8354bbbac5459be76dd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ef6a80a1287865541bf88be5843a6c34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: b37b82e69d525f542adfd2ccbda75b66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f038dedaa8f83dc40848f97752a54bee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 8d20d611ff7a4e14ba45779d7a83f38d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 84a627c956e1a6b48a0ecfb54593bd69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5bbe1b810445c6a41aeb17c8a623fcf5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: cde95d95a0316584b82467d1beac82ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: b19bd8b58d4f7764f9baa7399f71e822
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 0c7516ea9c5ab2148bfc6bb4ce18bb81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e790464ced684e044890cf4c25a2e7c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 28b56de06ab1f9c4caf30dcb0fcc0112
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3cd70b70d0eb95148894dc61ffb300ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 13583f99459c94c419d77dab1c595ec2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: aab233d5cbfa45040b22b8e608d1fc1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 791ac7efe975c2b4a835a135cc8c7d32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e2713767183bed74da3829d48f6ff16b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 02856a540abc20e479161c4b631b2ace
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9ed0a4f8876df1f4e9dd055b34f3ea1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 5b8859a3bac128148b06acb595b48e8b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: a4a569d9032a7dd498860b259fa0a5f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9133526f05510d5419b59bee79d55a28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e616d0d11b968ac42af4b7c50e13ca12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 1aa79287980e7664aa200ec2077ac2b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 417bb03f35c79bd4696bbd59c1b31f01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 32b05195650796043bfb45f3c89562d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e717c83a85d753d40abb178f06c2bd7d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 47c799db46512944cbf30a5538b3fed4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 390c811f78d3b8e4bade0e59ab529398
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: ac12dd8f72bfdf241b5e64b270473550
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 74f4b4d3a25f62248a57393605c34669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 87b9d017e6a97ec42aa302771bc054fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 2ef4af5fdb6a802498df5c0f5569912d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 0070b464b2aa18a4bbe6711953695070
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 479b7fceb93442a43a02776c6f2a557f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f49c161d9a4f1dc4aa3217f16380f593
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e60dfa154242b294eb8d08a542081877
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 1b948a865f746914989e9554d1dd543a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 240b36ed4726cd44999b5bf475d9587d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f16ecb3138a340c4e94350b86d3e9359
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4f4889efd096af64e8ae834ac55891a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4d4fbed261baa57479a5c94361a09a02
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 815fe24c2b6ec9e4387f36afeee1784e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: c9dd0b89b27959447864f8c4fa542426
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f5956ac3bc53d85448eee7079c52669e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 8d2117bf6a9860f44b6fdaf23f7677a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 8fb08daaf6d49174a8f8737b2ffde7b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7f83117407ce58a4fb161c3ccba150cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 0829743c682676f458e21d2dbd1215f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b20f3662b1c9d9b4a8faee778f1f37bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c2dd8babc95ff9f40a71e4bfa8db9ff2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 109bb7f85b531ba4f924d92855d184f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e6d81d90f4ec73d468a6fad8e2a5d48a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2252d9aba4e4f214597008770ef22acd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d81578f76a42c854fa576c17efd9b159
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 72172fa6b7cb9a84880088d1fac5977b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ab00d0d0fe30a134689629140cee8f78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6f281490c4edad34ab036ea100e66a1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 487c851c5cf195a43b78474987370006
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b39c61526d7d56247aca39b452931650
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 9a46a0e2a83bed5419cfc7f337a0d06b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4ad287f28fb857e4e9082d8ebd8b1be3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49d2f394391214f449969af158e00aee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e0cfd6b2c3396134486788f9a3a050f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f4d91d5349248754ab0599da879df98b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d237d9d3accf79641b0a78701efa7693
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 5867739dc8684fd4997d85dcea6a589d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: dfc0e5cb747d5c04f8991d80f31f5fd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 09d084f93501ebe4a877b922624e6b2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 78830929d228f954cae046528cb35605
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8de760c0990d28f408c0ff3944066017
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: ebbe6e25703f3dd49a21cd7d91046b34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b5594109a58c522408573029685eb3e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 717ec96122a36ce4ea7925a79c865ddb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f57ae27770f67334698bb1b537db4396
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 04e030aa94bc4794f8496eccc4ae7023
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: fb6b3bc52bda2ab44bc43d9a54cb2780
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4f9907ab1a400244183d10dc5481f545
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e768c2bddeb85ce439a4184dabc0934d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 37b8e6af3d529554d9d861a3afddeb29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: be119046b3c44bc429d7ba62edec91da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 1d3f0c805b60df443adc9001857457a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0d40e5eca02c7d743ac96ef1f2cd8658
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: fc149611720771a4a9c57c50781147fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 09ba5fa76dd0d364b8178bb05f976bc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 37726ead3d3769b459fb66b1b5370bf5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 91415018536b4754a8ffb5f1e48134e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 29c150280babb4241b9db441f97757b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f599fcdef90e35a47b3256030705d9d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 46bb7581d005f82439e9cbec26dd10a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: d98e5a11d2a239f438730f48c2aa4c0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 437fe590ea249bd4a9ad5014aadcc8a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: fbb78942c775c754ba8131479598906c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 750693b9b2dfe8e43b783a938ed7b58b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: aa877c88913158942b04a160582a59ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f4d02a1ded55a514f9f8d8de55aec1e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3e363cde5f0a64946ab772a54d79dc0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b3058f803ed3e4142a4eb2c30ba7236a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c03ed1ae24debdc41ab450be8e274d40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9e982d1945bc32846991436ae681ee5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: afa8b7c6c9420614e9ebfcb04e66c61a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 449edeb5b62c7b042ac1ef51b3a44fd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b560a4dee156a3e4f8e263eff967e4dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3ff68d61ed81e894ab43f60c1e8b345d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e171221240c8d2348bbbac4356e16f18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 69f197b312f976f4695d330b51fd80c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 5fc95599efbaff54a850fe5e97578632
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1f6f77414a663db4496517402b18fb39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6db5bd86a45bb234fac69610e13f6b43
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 5704f33107443f2448ca029ece61a763
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1e19718a16f514847b78083e001e7b20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3a2b0dcb0fb0e044a9f2fef154599676
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 312f6fa9e26767f4caaab48fc276482a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 35cdab0c9fe6715478a2c3d212edb61c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: d0303821ad71cd5449c0737c2d3d77d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c3a4d835d75651f4cbd773fff50570ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a530b2a51f056e54d8cb14bb2c4249e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4dd3eb78e80a2f546943c715b1ac97c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2698b48600e08864da4f17ebc69f9992
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7bb1b89afaa8938408378efe67921190
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4a29771bf182cd749b695d24f94c36a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3ad7b9e6b1ed01143a0ab9ffc9e0a487
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8ae0a867f0c875b4bb2e157500de1361
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 146d8574d32cbf14c98ff2ab1ccaba8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: bca286a262f35b145aeadaf418bebb61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f2bfff02757682f4f8fe98dbbd319bb8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c9563d25cae289b4abf5fd041b131cb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5979aa64c369f3541b57225b8510b968
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a6b93c3b1629739468cfced1977a77e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 49dd43722be49314da86a56d7d58fed9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 7c8fac1c11b963844b528e89f888fbfd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b382bf9ea12c5ec45a8bd713fe8f0e61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 0d1ec86e2598f574aa53537654a831c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b1a04863031b0a84dac94e43ac915c4d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 2604456927a372941b34b8d27aa83d67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 25b90ea657a0662449e5b7d4a5e296cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 3cedfd731e7008d4c9f21bd764b0db9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 820dbdd4d2920cb40a56ce04bcc85bab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: be6caf356e2840542a6cf7ed423102cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e10b8eea9c2570a46a35711e8aa2cdf9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c089c466c6f3b1143bf258d1195d562d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6efbb89c25961dc4d851f75004b4a6eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 2c008d8779713d14b86247bd6e0b10c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 6eab4d96b834ec54ca684a53b5fbbdaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: dbb9524ce1df2ae42a86d72f3914f860
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c2517241eeeec7f4bbb3cb432f20bb17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 09b7ad4121d238e458497e5365a7f714
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e079243b3853bab4895f98fbafdacec0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4263dcb345b4b08428de0e6eaeae3dea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c149b0958471ff343a59bc3a73e63245
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 7c5f428b4a96d36428424d055e20a0e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a96de247dbe382640b74d8519b415620
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 44bfcb70d0019de498b985031eeb547d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3b9f171842821db41823ce1d7c2eb3df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f91c3c32f8ac4ba4bb97107699ac8149
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 98e0e3bc11f61c940b35e8b7c797197d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 79e85b738d40ff447813c9fdf20becca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: bc8b385e6dfae5e45b75c38aecce0819
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d7a132daf126c8a418607177fc251310
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e1314aa8262c8ff4abc18e9286c2e464
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7c8ee177c71bd004daab0964c648a692
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 95f49f93bd0132241a17fd58aa8b288b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 178d60e70efcc734abc073220f0651e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d44f20da1d01eed43ae0bd5d6e8e1e9d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a55acc9833796cf4386a67f2c27e94ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b552431120f36b2489da8d2d79f27e7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c08a444f76bed9a468f68635fff9238b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d22ddbb5f35681a4d89d3a2d00d4ca5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a78b4e748942ef140b7d63617bb1fe02
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 72d5cc61052db704e9dbd7f3662603a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 619fc8587908b59469d07021050d9092
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e9beb6ecd2c86bb41a84072d007ac677
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 528a362d648b5484e95663463b6d62b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e000cfc9d47021844a0a453949b9eb94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3372f04a1c74f834d92b9389a278d642
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 19b655ddcd63eee44aaca4e3f92e8fe0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 505737502536b484b87e6ebdbc85f5dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 84da11437d143a54583946b4d74ff1ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e3eb786f2411ec74a844cade9de2f319
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 08b76767016065d43afe26658362103a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0f3b8a2109b71914abe91ab49f9d2635
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 38c8f66e48710484c969849209dc1493
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3acb768b18822b245bd4e4ce546c2d2b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 842af85e8ca567c44ba7569068e0eec4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 63336d240aecb36438ba9df6174ac48f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 78989f923bfebd74fa66b25e2ba65638
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bf2ea52c2adfe0a4ea3f8f85ff755804
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 181fb38a183c88b41953d5826953002b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b6089d0939b6b4649994eee94cb0022c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: dad8e92671af0194e8213613af8b4777
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: cc4a8b0b24d68444b976aa06a3f01a5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 7cb05c6abc540f24ab6cf1494bc0a6a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 5251eb4275b584940800a847770bd202
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f90e6a40043b81946adfc072f542fa5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a2b7c5b4fb5839b4fac2b8336d28cb16
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 74525dc985a2c6d40beb040365c01f86
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d06a2a423d9b5704f8b5931130333863
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e80e8972b18d49c4aae01037a80a77d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d5140f87f1051d74eb1370876f9d6a58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0b25733f8556c574b8d0bd4eb8762bae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c6f4902ccc2146844a2c4aed82a5cbd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a1a7dc2baffb15f4b91e80d50b9bad10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 55e50e223038ea64d84a97d0335deba8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ad576b8ee7d6bbe41b858e885024e395
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 456f937b4ef82af438b9bd176d98e6f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 77aa0c63c168f6b47800a6511b41cd60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 81dcf9f8406f9c84598213f81cb0c170
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 409d35a5aaf6fb24197813e8ea8bc1a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b668cc03081bd0140b200f377fa02533
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f195910dc421a5a439de0fc98d30efb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3094891b5722809419055123737f2a95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a6972659972d53f4bb9010f8daf15d57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3d5435a1286055c419e852e1ffc4857f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 54df4e13a10c006498dd499bd4e1c281
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e591dda8e60b294428bce9a28b28304c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 90714eb9d8b66c648ac487f47c2c1efe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 15b8cda1576fd014ba61e37858e39ec4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2b7bf70a064014e44a88c83a8ccf96b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 85257e8227e465b459324127e9c23472
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: c84940e5ed8edae489b9bdcb96057682
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e884a442c245c5340bdf9af9c59a9d29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ff20164a773271649803ceaa9b984f89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Sprite_tiled_set_Zone_01_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f216c66d5d1315c40ace4dee79d0ecd6
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
